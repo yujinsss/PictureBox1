@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureBox1", "PictureBox1\PictureBox1.csproj", "{FDB8BD8E-FA18-4E44-B606-63FE85D4FDEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDB8BD8E-FA18-4E44-B606-63FE85D4FDEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB8BD8E-FA18-4E44-B606-63FE85D4FDEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB8BD8E-FA18-4E44-B606-63FE85D4FDEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB8BD8E-FA18-4E44-B606-63FE85D4FDEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B6E126B-CF57-4C9F-BD96-160A06E37D15}
+	EndGlobalSection
+EndGlobal
